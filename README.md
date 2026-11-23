@@ -1,9 +1,9 @@
-## Edras Lazo
+<img src="assets/banner.svg" width="100%" alt="Edras Lazo · sistemas, web e infraestructura">
+
+<br>
 
 Ingeniero en Sistemas Informáticos, Universidad de El Salvador (FMO).
 Trabajo entre el desarrollo web y la infraestructura: igual armo un sistema de ventas en Laravel que levanto una red completa en contenedores para ver dónde falla.
-
-San Miguel, El Salvador.
 
 <br>
 
