@@ -69,9 +69,9 @@
     <rect width="1200" height="300" fill="url(#grain)"/>
     <g font-family="'Segoe UI', 'Helvetica Neue', system-ui, sans-serif">
       <text class="fade" x="64" y="140" font-size="46" font-weight="600" fill="#e9e4da" letter-spacing="-.5">Edras Lazo</text>
-      <text class="fade d" x="66" y="178" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="15" fill="#8b949e" letter-spacing="2">sistemas · web · infraestructura</text>
-      <circle class="dot" cx="71" cy="226" r="4" fill="#f2a65a"/>
-      <text class="fade d" x="86" y="231" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="13" fill="#6e7681" letter-spacing="1">San Miguel, SV</text>
+      <text class="fade d" x="65" y="182" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="21" fill="#a8b1bb">Desarrollo de aplicaciones web y gestión de riesgos</text>
+      <circle class="dot" cx="71" cy="228" r="4" fill="#f2a65a"/>
+      <text class="fade d" x="86" y="233" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#6e7681">El Salvador, San Miguel</text>
     </g>
   </g>
 </svg>
