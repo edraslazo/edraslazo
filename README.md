@@ -16,13 +16,25 @@ San Miguel, El Salvador.
 
 **Proyectos**
 
-| | |
-|---|---|
-| [MotoStock](https://github.com/EliseoSantos2468/MotoStock) | Inventario, ventas, préstamos y cuotas. Roles y API propia. `Laravel 12` `PostgreSQL` `Tailwind` `Docker` |
-| [DATACENTER-SIDESI-ACC](https://github.com/edraslazo/DATACENTER-SIDESI-ACC) | Simulación de un centro de datos: firewall con iptables, DHCP y DNS redundantes, NAS, AAA y monitoreo con Zabbix. `Docker Compose` `Linux` |
-| [SistemaContable-2023](https://github.com/edraslazo/SistemaContable-2023) | Libro diario, libro mayor y balance de comprobación con interfaz gráfica. `Java` `PostgreSQL` |
-| [WeatherApi](https://github.com/edraslazo/WeatherApi) | Clima actual de ciudades de El Salvador con datos de OpenWeatherMap. `JavaScript` |
-| [MBROS_LIBRARY](https://github.com/edraslazo/MBROS_LIBRARY) | Librería de componentes y utilidades CSS con temática de Mario Bros. `Sass` |
+**[MotoStock](https://github.com/EliseoSantos2468/MotoStock)**\
+Inventario, ventas, préstamos y cuotas, con roles y API propia.\
+`Laravel 12` `PostgreSQL` `Tailwind` `Docker`
+
+**[DATACENTER-SIDESI-ACC](https://github.com/edraslazo/DATACENTER-SIDESI-ACC)**\
+Simulación de un centro de datos: firewall con iptables, DHCP y DNS redundantes, NAS, AAA y monitoreo con Zabbix.\
+`Docker Compose` `Linux`
+
+**[SistemaContable-2023](https://github.com/edraslazo/SistemaContable-2023)**\
+Libro diario, libro mayor y balance de comprobación con interfaz gráfica.\
+`Java` `PostgreSQL`
+
+**[WeatherApi](https://github.com/edraslazo/WeatherApi)**\
+Clima actual de ciudades de El Salvador con datos de OpenWeatherMap.\
+`JavaScript`
+
+**[MBROS_LIBRARY](https://github.com/edraslazo/MBROS_LIBRARY)**\
+Librería de componentes y utilidades CSS con temática de Mario Bros.\
+`Sass`
 
 <br>
 
