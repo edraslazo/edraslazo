@@ -1,14 +1,17 @@
-<img src="assets/banner.svg" width="100%" alt="Edras Lazo · sistemas, web e infraestructura">
+<img src="assets/banner.svg" width="100%" alt="Edras Lazo · desarrollo de aplicaciones web y gestión de riesgos">
 
 <br>
 
-Ingeniero en Sistemas Informáticos, Universidad de El Salvador (FMO).
-Trabajo entre el desarrollo web y la infraestructura: igual armo un sistema de ventas en Laravel que levanto una red completa en contenedores para ver dónde falla.
+Ingeniero en Sistemas Informáticos por la Universidad de El Salvador (FMO).
+Me dedico a construir aplicaciones web y a la gestión de riesgos: que un sistema funcione es la mitad del trabajo, la otra mitad es anticipar dónde puede fallar y qué pasa cuando falla.
+
+Mi trabajo más reciente es el sistema de gestión de **Villamotos**, ya implementado y en uso. Lleva el inventario, las ventas, los créditos y las cuotas del negocio.
 
 <br>
 
 **Ahora mismo**
 
+- Dando soporte y nuevas funciones al sistema de Villamotos.
 - Desarrollando [MotoStock](https://github.com/EliseoSantos2468/MotoStock), un sistema de inventario, ventas y créditos para un negocio de motos y repuestos.
 - Aprendiendo más sobre despliegue con Docker y monitoreo de servidores.
 
@@ -41,3 +44,9 @@ Librería de componentes y utilidades CSS con temática de Mario Bros.\
 **Herramientas**
 
 <img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,sass,tailwind,postgres,docker,linux,git&perline=12" height="34" alt="PHP, Laravel, Java, JavaScript, HTML, CSS, Sass, Tailwind, PostgreSQL, Docker, Linux, Git">
+
+<br>
+
+**Contacto**
+
+[edraslazo503@gmail.com](mailto:edraslazo503@gmail.com) · [+503 7891 9521](https://wa.me/50378919521)
