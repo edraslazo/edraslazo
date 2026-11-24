@@ -2,22 +2,17 @@
 
 <br>
 
-Ingeniero en Sistemas Informáticos por la Universidad de El Salvador (FMO).
-Me dedico a construir aplicaciones web y a la gestión de riesgos: que un sistema funcione es la mitad del trabajo, la otra mitad es anticipar dónde puede fallar y qué pasa cuando falla.
-
-Mi trabajo más reciente es el sistema de gestión de **Villamotos**, ya implementado y en uso. Lleva el inventario, las ventas, los créditos y las cuotas del negocio.
+Ingeniero en Sistemas Informáticos, Universidad de El Salvador (FMO).
+Desarrollo de aplicaciones web y gestión de riesgos, con enfoque en sistemas que resuelven problemas reales de negocio y anticipan dónde pueden fallar.
 
 <br>
 
-**Ahora mismo**
+**Proyectos en equipo**
 
-- Dando soporte y nuevas funciones al sistema de Villamotos.
-- Desarrollando [MotoStock](https://github.com/EliseoSantos2468/MotoStock), un sistema de inventario, ventas y créditos para un negocio de motos y repuestos.
-- Aprendiendo más sobre despliegue con Docker y monitoreo de servidores.
+Soluciones de ingeniería desarrolladas en conjunto con mi equipo de trabajo.
 
-<br>
-
-**Proyectos**
+**Villamotos**\
+Sistema de gestión para Villamotos, implementado y en uso.
 
 **[MotoStock](https://github.com/EliseoSantos2468/MotoStock)**\
 Inventario, ventas, préstamos y cuotas, con roles y API propia.\
@@ -31,6 +26,10 @@ Simulación de un centro de datos: firewall con iptables, DHCP y DNS redundantes
 Libro diario, libro mayor y balance de comprobación con interfaz gráfica.\
 `Java` `PostgreSQL`
 
+<br>
+
+**Otros proyectos**
+
 **[WeatherApi](https://github.com/edraslazo/WeatherApi)**\
 Clima actual de ciudades de El Salvador con datos de OpenWeatherMap.\
 `JavaScript`
@@ -38,6 +37,13 @@ Clima actual de ciudades de El Salvador con datos de OpenWeatherMap.\
 **[MBROS_LIBRARY](https://github.com/edraslazo/MBROS_LIBRARY)**\
 Librería de componentes y utilidades CSS con temática de Mario Bros.\
 `Sass`
+
+<br>
+
+**En curso**
+
+- Mejoras continuas al sistema de Villamotos.
+- Despliegue con Docker y monitoreo de servidores.
 
 <br>
 
