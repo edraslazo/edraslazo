@@ -12,7 +12,8 @@ Desarrollo de aplicaciones web y gestión de riesgos, con enfoque en sistemas qu
 Soluciones de ingeniería desarrolladas en conjunto con mi equipo de trabajo.
 
 **Villamotos**\
-Sistema de gestión para Villamotos, implementado y en uso.
+Sistema de ventas para un negocio de motocicletas, implementado y en uso. Cotizaciones, ventas al contado y financiadas, créditos con control de abonos, pagarés, pólizas y placas por vehículo, traslados entre sucursales, reportes con gráficas y documentos en PDF.\
+`Laravel 11` `Livewire` `MySQL` `Bootstrap` `Chart.js`
 
 **[MotoStock](https://github.com/EliseoSantos2468/MotoStock)**\
 Inventario, ventas, préstamos y cuotas, con roles y API propia.\
@@ -49,7 +50,7 @@ Librería de componentes y utilidades CSS con temática de Mario Bros.\
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,sass,tailwind,postgres,docker,linux,git&perline=12" height="34" alt="PHP, Laravel, Java, JavaScript, HTML, CSS, Sass, Tailwind, PostgreSQL, Docker, Linux, Git">
+<img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,sass,tailwind,bootstrap,postgres,mysql,docker,linux,git&perline=14" height="34" alt="PHP, Laravel, Java, JavaScript, HTML, CSS, Sass, Tailwind, Bootstrap, PostgreSQL, MySQL, Docker, Linux, Git">
 
 <br>
 
